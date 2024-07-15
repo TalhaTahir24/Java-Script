@@ -1,0 +1,27 @@
+console.log("DataTypes")
+
+console.log("1_string");
+console.log("2_boolean");
+console.log("3_number");
+console.log("4_undefined");
+console.log("5_null");
+console.log("6_object");
+console.log("7_symbol");
+console.log("8_example")
+
+
+let name="Talha"  // string //
+let isMarried=false // boolean //
+let age=23 // number //
+let x; // undefined //
+let y=null // null //
+let person={name:"Talha",age:23} // object //
+let sym=Symbol("Talha") // symbol //
+
+console.log(name);
+console.log(isMarried);
+console.log(age);
+console.log(x);
+console.log(y);
+console.log(person);
+console.log(sym);
